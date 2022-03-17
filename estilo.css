@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.top{
+    background-color: crimson;
+}
+ul{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background-color: crimson;
+    margin: auto;
+    padding: 2rem;
+
+}
+ul li{
+    list-style: none;
+    cursor: pointer;
+    color: black;
+}
+.loupe{
+    width: 2rem;
+    height: 2rem;
+    
+}
+p{
+    text-align: center;
+}
+#search{
+    width: 20rem;
+}
+
+.sideRigth{
+    
+}
+
+ol{
+    list-style: none;
+    cursor: pointer;
+}
+li{
+    margin: 30px;
+}
+
+#img1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+#img2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+#img3{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+#img4{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.main{
+    display: flex;
+    justify-content:space-between ;
+}
