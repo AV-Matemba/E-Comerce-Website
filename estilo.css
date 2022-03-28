@@ -13,7 +13,7 @@ ul{
     justify-content: space-around;
     background-color: crimson;
     margin: auto;
-    padding: 2rem;
+    padding: 3px;
 
 }
 ul li{
@@ -33,9 +33,7 @@ p{
     width: 20rem;
 }
 
-.sideRigth{
-    
-}
+
 
 ol{
     list-style: none;
@@ -69,4 +67,38 @@ li{
 .main{
     display: flex;
     justify-content:space-between ;
+}
+
+#rigthPoint{
+    cursor: pointer;
+}
+#leftPoint{
+    cursor: pointer;
+}
+
+#pation9{
+    display: none;
+    border-radius: 50px;
+}
+#pation10{
+    display: none;
+}
+#pation11{
+    display: none;
+}
+#pation6{
+    display: none;
+}
+.center{
+    border: 10px solid white;
+    border-style: dotted;
+    background-color: red;
+    width: 60%;
+    height: 80%;
+    
+}
+   
+#foto{
+    width: 100px;
+    height: 90%;
 }
