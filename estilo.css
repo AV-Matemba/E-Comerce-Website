@@ -6,6 +6,7 @@ body{
 }
 .top{
     background-color: crimson;
+    margin-right: -20px;
 }
 ul{
     display: flex;
@@ -22,15 +23,34 @@ ul li{
     color: black;
 }
 .loupe{
-    width: 2rem;
-    height: 2rem;
+    width: 1rem;
+    height: 1rem;
+    padding-top: ;
     
 }
 p{
     text-align: center;
 }
 #search{
-    width: 20rem;
+    width: 40rem;
+    height: 2rem;
+    margin-bottom: 12px;
+    margin-left: 17rem;
+}
+
+.searchBar{
+    background-color: brown;
+    margin: -17px;
+}
+.cart{
+    width: 25px;
+    height: 25px;
+    margin-left: 4rem;
+}
+.userIcon{
+    width: 25px;
+    height: 25px;
+    margin-left: 2rem;
 }
 
 
@@ -74,6 +94,7 @@ li{
 }
 #leftPoint{
     cursor: pointer;
+  
 }
 
 #pation9{
@@ -90,15 +111,21 @@ li{
     display: none;
 }
 .center{
-    border: 10px solid white;
-    border-style: dotted;
-    background-color: red;
-    width: 60%;
-    height: 80%;
-    
+    background-color: red;   
 }
    
 #foto{
-    width: 100px;
-    height: 90%;
+    width: 50rem;
+    height: 25rem;
+    border: 10px solid white;
+    border-style: dotted;
+}
+#sideRigth{
+    border: 1px solid black;
+    box-shadow: 10px;
+}
+.lado{
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
 }
