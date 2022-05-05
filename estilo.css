@@ -110,14 +110,15 @@ li{
     display: none;
 }
 .center{
-    background-color: red;   
+    background-color: ;   
 }
    
 #foto{
     width: 50rem;
-    height: 15rem;
+    height: 20rem;
     border: 10px solid white;
     border-style: dotted;
+    margin-top: 10px;
 }
 #sideRigth{
     border: 1px solid black;
